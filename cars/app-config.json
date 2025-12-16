@@ -1,0 +1,17 @@
+{
+  "versionAndroid": 0,
+  "versionIos": 0,
+  "cdnUrl": "https://main.test.blackrussian.games/",
+  "port": "7777",
+  "siteVersionForP1": 0,
+  "marketVersionForP1": 0,
+  "rustoreVersionForP1": 0,
+  "iosVersionForP1": 0,
+  "isShowSimButton": true,
+  "isShowTanpinButton": true,
+    "features": {
+    "snow": {
+      "enable_if": true
+    }
+  }
+}
