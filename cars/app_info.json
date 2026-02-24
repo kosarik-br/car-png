@@ -1,5 +1,17 @@
 {
-  "version_ios": 806,
-  "version_android": 1272,
-  "version_android_rustore": 1272
+    "versionAndroid": 842,
+    "versionIos": 777,
+    "cdnUrl": "https://main.test.blackrussian.games/",
+    "port": "7777",
+    "siteVersionForP1": 842,
+    "features": {
+        "urls": {
+            "registrationSite": "https://registration-service-frontend.auth2-cbt.public.prod.blackhub.team/",
+            "registrationService": "https://registration-service.auth2-cbt.public.prod.blackhub.team/",
+            "characterService": "https://characters-service.auth2-cbt.public.prod.blackhub.team/"
+        },
+        "auth2": {
+            "enable_if": true
+        }
+    }
 }
