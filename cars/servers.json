@@ -1,18 +1,17 @@
-[    {
-        "logo":  "white",
-        "color":  "FF0000",
-        "id":  1,
-        "name":  "TG DrainBR",
-        "firstname":  "TG DrainBR",
-        "secondname":  "TG DrainBR",
-        "ip":  "80.66.82.46",
-        "port":  "5125",
-        "key":  "1424",
-        "maxonline":  "1300",
-        "online":  "429",
-        "status":  "",
-        "url":  "80.66.82.46",
-        "x2":  false
-    }
-]
-
+[
+    {
+    "logo": "white",
+    "color": "AAAAAA",
+    "id": 202,
+    "name": "Test P3 (PreProd / ST)",
+    "firstname": "Test P3 (PreProd / ST)",
+    "secondname": "Test P3 (PreProd / ST)",
+    "ip": "80.66.82.19",
+    "port": "7030",
+    "key": "1424",
+    "maxonline": "1000",
+    "online": "300",
+    "status": "test-public",
+    "url": "80.66.82.19",
+    "x2": false
+  }
