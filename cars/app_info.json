@@ -1,17 +1,5 @@
 {
-    "versionAndroid": 842,
-    "versionIos": 777,
-    "cdnUrl": "https://main.test.blackrussian.games/",
-    "port": "7777",
-    "siteVersionForP1": 842,
-    "features": {
-        "urls": {
-            "registrationSite": "https://registration-service-frontend.auth2-dev1.public.dev.blackhub.team/",
-            "registrationService": "https://registration-service.auth2-dev1.public.dev.blackhub.team/",
-            "characterService": "https://characters-service.auth2-dev1.public.dev.blackhub.team/"
-        },
-        "auth2": {
-            "enable_if": true
-        }
-    }
+  "version_android": 799,
+  "version_android_rustore": 799,
+  "version_ios": 356
 }
