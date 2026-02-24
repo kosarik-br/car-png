@@ -11,7 +11,6 @@
             "characterService": "https://characters-service.auth2-cbt.public.prod.blackhub.team/"
         },
         "auth2": {
-            "enable_if": true
-        }
+            "enable_if": false
     }
 }
