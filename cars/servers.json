@@ -26,7 +26,7 @@
     "port": "7030",
     "key": "1424",
     "maxonline": "1300",
-    "online": "100",
+    "online": "300",
     "status": "",
     "url": "80.66.82.19",
     "x2": true
@@ -42,7 +42,7 @@
     "port": "7030",
     "key": "1424",
     "maxonline": "1300",
-    "online": "100",
+    "online": "500",
     "status": "new",
     "url": "80.66.82.19",
     "x2": false
@@ -58,7 +58,7 @@
     "port": "7030",
     "key": "1424",
     "maxonline": "1300",
-    "online": "100",
+    "online": "800",
     "status": "recommended",
     "url": "80.66.82.19",
     "x2": false
@@ -74,10 +74,10 @@
     "port": "7030",
     "key": "1424",
     "maxonline": "1300",
-    "online": "100",
+    "online": "1100",
     "status": "True",
     "url": "80.66.82.19",
-    "x2": false
+    "x2": True
   },
     {
     "logo": "purple",
@@ -90,12 +90,13 @@
     "port": "7030",
     "key": "1424",
     "maxonline": "1300",
-    "online": "100",
+    "online": "1300",
     "status": "servicing",
     "url": "80.66.82.19",
     "x2": false
   }
 ]
+
 
 
 
