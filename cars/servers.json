@@ -26,8 +26,8 @@
     "port": "7030",
     "key": "1424",
     "maxonline": "1300",
-    "online": "300",
-    "status": "",
+    "online": "400",
+    "status": "new",
     "url": "80.66.82.19",
     "x2": true
   },
@@ -42,8 +42,8 @@
     "port": "7030",
     "key": "1424",
     "maxonline": "1300",
-    "online": "500",
-    "status": "new",
+    "online": "800",
+    "status": "recommended",
     "url": "80.66.82.19",
     "x2": false
   },
@@ -58,8 +58,8 @@
     "port": "7030",
     "key": "1424",
     "maxonline": "1300",
-    "online": "800",
-    "status": "recommended",
+    "online": "1300",
+    "status": "",
     "url": "80.66.82.19",
     "x2": false
   },
@@ -74,28 +74,13 @@
     "port": "7030",
     "key": "1424",
     "maxonline": "1300",
-    "online": "1100",
-    "status": "True",
-    "url": "80.66.82.19",
-    "x2": true
-  },
-    {
-    "logo": "purple",
-    "color": "800080",
-    "id": 6,
-    "name": "TG: @DrainBR",
-    "firstname": "TG: @DrainBR",
-    "secondname": "TG: @DrainBR",
-    "ip": "80.66.82.19",
-    "port": "7030",
-    "key": "1424",
-    "maxonline": "1300",
-    "online": "1300",
+    "online": "0",
     "status": "servicing",
     "url": "80.66.82.19",
-    "x2": false
+    "x2": true
   }
 ]
+
 
 
 
