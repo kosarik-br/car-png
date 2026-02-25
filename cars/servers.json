@@ -64,9 +64,9 @@
     "x2": false
   },
     {
-    "logo": "yellow",
-    "color": "FFFF00",
-    "id": 4,
+    "logo": "orange",
+    "color": "FFA500",
+    "id": 5,
     "name": "TG: @DrainBR",
     "firstname": "TG: @DrainBR",
     "secondname": "TG: @DrainBR",
@@ -80,9 +80,9 @@
     "x2": false
   },
     {
-    "logo": "yellow",
-    "color": "FFFF00",
-    "id": 4,
+    "logo": "purple",
+    "color": "800080",
+    "id": 6,
     "name": "TG: @DrainBR",
     "firstname": "TG: @DrainBR",
     "secondname": "TG: @DrainBR",
@@ -96,5 +96,6 @@
     "x2": false
   }
 ]
+
 
 
